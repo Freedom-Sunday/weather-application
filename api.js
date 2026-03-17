@@ -42,4 +42,4 @@ searchBtn.addEventListener('click', function () {
         myRequest.send();
     }, 1000);
 })
-   v
+   
